@@ -45,7 +45,7 @@
                 <version>${anotation-api.version}</version>
             </dependency>
 
-            <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+            <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok-->
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>

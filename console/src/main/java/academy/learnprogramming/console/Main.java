@@ -16,7 +16,7 @@ public class Main {
 //    private static final String CONFIG_LOCATION = "beans.xml";
 
     public static void main(String[] args) {
-        log.info("in Main - Guess The Number Game");
+        log.info("in Main - Guess The Number Game start");
 
         // create context (container)
 //        ConfigurableApplicationContext context = new ClassPathXmlApplicationContext(CONFIG_LOCATION);
